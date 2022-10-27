@@ -115,7 +115,7 @@ function selectedPokemon(e){
         }
     }
     
-  
+
 logo.addEventListener("click", function(){
     renderPokemons()
     mainImgScreen.innerHTML = `<img src="images/pokemon-logo-png.png" alt="pokemon logo">`
