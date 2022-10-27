@@ -106,6 +106,10 @@
     cursor: pointer;
   }
 
+  .logo:hover{
+    border: 5px solid var(--green);
+  }
+
   .middle-block{
     width: 80px;
     height: 5px;
