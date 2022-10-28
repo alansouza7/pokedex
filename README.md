@@ -18,9 +18,9 @@ This is a pokédex app with my favourite pokémons in it. It has been built enti
 
 ## 💻 Reflection
 
-- This project has been built with the purpose of putting into practise everything learned so far from the Scrimba and Dev em Dobro frontend developer courses. It's been very rewarding to see how far I've come in my journey. I've spent 2 days to finish this off, spending the majority of the time making adjustments on the CSS part and the JS functionality. 
+- This project has been built with the purpose of putting into practice everything learned so far from the Scrimba and Dev em Dobro frontend developer courses. It's been very rewarding to see how far I've come in my journey. I've spent 2 days finishing this off, spending the majority of the time making adjustments to the CSS part and the JS functionality. 
 
-- I wanted to create a project where I could put into practise the filter( ) and includes( ) methods array and it worked like a charm. It was great to build muscle memory as well as to create something of my own.
+- I wanted to create a project where I could put into practice the filter( ) and includes( ) methods array and it worked like a charm. It was great to build muscle memory as well as to create something of my own.
 
 - I've faced a few challenges where the app would give me an error if I clicked somewhere and I couldn't find an ID. This has been solved using the if else method to only run the code if an id has been saved into my variable.
 
