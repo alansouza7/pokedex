@@ -1,5 +1,5 @@
 # Pokédex 🔴
-This is a pokédex app with my favourites pokémons in it. It has been built entirely by myself, from the design to the funtionality using HTML, CSS, and JavaScript. 
+This is a pokédex app with my favourite pokémons in it. It has been built entirely by myself, from the design to the functionality using HTML, CSS, and JavaScript. 
 
 [<img src="images\project.gif">](https://alansouza7.github.io/pokedex/)
 
